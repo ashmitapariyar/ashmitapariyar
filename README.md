@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashmitapariyar
-- 👀 I’m interested in Travelling
 - 🌱 I’m currently learning BCA Course
-- 💞️ I’m looking to collaborate on Java Projects
+- 💞️ I’m looking to collaborate on new Projects
 
 
 <!---
